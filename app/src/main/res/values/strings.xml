@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_no_notes">No Notes</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="note_title">Title</string>
+    <string name="note_tap_to_start_typing">Tap to start typing</string>
+    <string name="menu_exit">Exit</string>
+</resources>
